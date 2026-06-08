@@ -1,0 +1,15 @@
+# ignorar carpetas internas de Terraform
+.terraform/
+
+# Ignorar archivos de estado de locales o copias de seguridad
+*.tfstate
+*.tfstate.*
+
+# Ignorar archivos de variables secretas si los creamos en el futuro
+*.tfvars
+*.tfvars.json
+
+# Ignorar archivos del sistema  
+.DS_Store
+Thumbs.db
+
