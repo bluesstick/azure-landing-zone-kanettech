@@ -33,7 +33,7 @@ aligned with Microsoft Azure's **Cloud Adoption Framework (CAF)** best practices
 
 ## 🚀 Deployment Workflow
 
-\`\`\`bash
+```bash
 # Initialize the workspace and connect to the remote Azure backend
 terraform init -reconfigure
 
@@ -45,7 +45,7 @@ terraform plan
 
 # Apply changes and deploy resources to the Azure subscription
 terraform apply
-\`\`\`
+```
 
 ## 📌 Notes
 
