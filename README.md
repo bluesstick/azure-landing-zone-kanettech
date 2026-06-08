@@ -1,4 +1,4 @@
-# Azure Enterprise Landing Zone - Kanettech (Putzmeister)
+# Azure Enterprise Landing Zone - Kanettech
 
 This repository contains the Infrastructure as Code (IaC) developed in **Terraform** for the automated, secure, and scalable deployment of the Cloud Landing Zone tailored for **Putzmeister's** core services migration.
 
